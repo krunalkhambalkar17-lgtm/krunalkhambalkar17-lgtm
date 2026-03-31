@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner_krunal.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Krunal Khambalkar</h1>
 <h3 align="center">Flutter & Android Developer | Building high-performance mobile apps with clean UI & scalable architecture 🚀</h3>
